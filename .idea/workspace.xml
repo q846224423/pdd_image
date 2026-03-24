@@ -184,7 +184,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="正式开源：拼多多图片爬虫，剥离本地打包产物并清理冗余注释" />
+    <MESSAGE value="正式开源：拼多多图片爬虫 ，剥离本地打包产物并清理冗余注释" />
     <MESSAGE value="测试提交" />
     <option name="LAST_COMMIT_MESSAGE" value="测试提交" />
   </component>
