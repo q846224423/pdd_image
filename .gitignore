@@ -1,0 +1,16 @@
+# 运行数据
+user_data/
+trending_images/
+*.log
+
+# Python 环境与缓存
+.venv/
+.idea/
+__pycache__/
+*.iml
+
+# 打包产物（不建议传源码仓库）
+dist/
+build/
+*.spec
+*.zip
