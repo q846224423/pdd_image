@@ -1,0 +1,6 @@
+2026/03/24-11:00:31.202 7ddc Reusing MANIFEST D:\project-ds\pdd_image_spider\user_data\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/03/24-11:00:31.205 7ddc Recovering log #39
+2026/03/24-11:00:31.207 7ddc Reusing old log D:\project-ds\pdd_image_spider\user_data\Default\EdgeCoupons/coupons_data.db/000039.log 
+2026/03/24-11:00:31.623 401c Level-0 table #43: started
+2026/03/24-11:00:31.634 401c Level-0 table #43: 681712 bytes OK
+2026/03/24-11:00:31.640 401c Delete type=0 #39
