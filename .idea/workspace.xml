@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="233b7ccb-2255-45c2-b1cd-92e9c315e8f4" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ImageSpider/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/ImageSpider/Analysis-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ImageSpider/COLLECT-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/ImageSpider/COLLECT-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ImageSpider/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/ImageSpider/EXE-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ImageSpider/ImageSpider.exe" beforeDir="false" afterPath="$PROJECT_DIR$/build/ImageSpider/ImageSpider.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ImageSpider/ImageSpider.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/build/ImageSpider/ImageSpider.pkg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ImageSpider/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/build/ImageSpider/PYZ-00.pyz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ImageSpider/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/ImageSpider/base_library.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ImageSpider/warn-ImageSpider.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/ImageSpider/warn-ImageSpider.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ImageSpider/ImageSpider.exe" beforeDir="false" afterPath="$PROJECT_DIR$/dist/ImageSpider/ImageSpider.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ImageSpider/_internal/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/dist/ImageSpider/_internal/base_library.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ImageSpider/_internal/ui/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/dist/ImageSpider/_internal/ui/app.py" afterDir="false" />
-    </list>
+    <list default="true" id="233b7ccb-2255-45c2-b1cd-92e9c315e8f4" name="更改" comment="测试提交" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,6 +147,15 @@
       <workItem from="1774320051386" duration="482000" />
       <workItem from="1774320650316" duration="4552000" />
     </task>
+    <task id="LOCAL-00001" summary="测试提交">
+      <option name="closed" value="true" />
+      <created>1774325682948</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774325682948</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +168,9 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+    <MESSAGE value="正式开源：拼多多图片爬虫，剥离本地打包产物并清理冗余注释" />
+    <MESSAGE value="测试提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
