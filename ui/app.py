@@ -1013,4 +1013,4 @@ class MainWindow(QMainWindow):
         elif skipped:
             QMessageBox.information(self, "提示", f"所选 {skipped} 张均已下载过。")
         else:
-            QMessageBox.warning(self, "提示", "全部下载失败，请检查网络。")
+            QMessageBox.warning(self, "提示", "全部下载失败，请检查网络。。")
